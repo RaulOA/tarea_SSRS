@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=LOC-15IR8\SQLEXPRESS;Initial Catalog=AdventureWorks2017;TrustServerCertificate=True</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>55476195-6287-423f-98d3-7d5bdf3f268c</DataSourceID>
+</RptDataSource>
